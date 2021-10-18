@@ -1,1 +1,1 @@
-# Stusent-Problem-Project
+# Student-Problem-Project
